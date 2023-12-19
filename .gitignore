@@ -5,3 +5,5 @@
 *.tex.bak
 backupindustrial.tex
 *.out
+.auctex-auto
+.auctex-auto/*
