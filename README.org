@@ -6,4 +6,4 @@ her er det ditt problem.
 
 ** Bidrag
 Du må gjerne bidra om du ønsker å rette opp i skrivefeil og/eller
-grammatikkfeil. Bare send en pull request.
+grammatikkfeil. Bare send en pull request eller eventuelt en e-post til simon@simonvaroy.xyz.
