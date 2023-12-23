@@ -10,8 +10,8 @@ grammatikkfeil. Bare send en pull request eller eventuelt en e-post til
 [[mailto:simon@simonvaroy.xyz][simon@simonvaroy.xyz]].
 *** Regler
 De eneste reglene for bidrag er at bidraget er:
-A. seriøst
-B. gjort i .org filen om det er snakk om en pull request
+1. seriøst
+2. gjort i .org filen om det er snakk om en pull request
 
 ** Lisens
 Verket er under lisensen CC-BY-SA, som med andre ord betyr at verket kan brukes
