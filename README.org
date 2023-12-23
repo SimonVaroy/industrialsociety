@@ -6,4 +6,16 @@ her er det ditt problem.
 
 ** Bidrag
 Du må gjerne bidra om du ønsker å rette opp i skrivefeil og/eller
-grammatikkfeil. Bare send en pull request eller eventuelt en e-post til simon@simonvaroy.xyz.
+grammatikkfeil. Bare send en pull request eller eventuelt en e-post til
+[[mailto:simon@simonvaroy.xyz][simon@simonvaroy.xyz]].
+*** Regler
+De eneste reglene for bidrag er at bidraget er:
+A. seriøst
+B. gjort i .org filen om det er snakk om en pull request
+
+** Lisens
+Verket er under lisensen CC-BY-SA, som med andre ord betyr at verket kan brukes
+til alt, inkludert kommersielle formål, så lenge alle derivasjoner er under
+samme lisens. I tillegg må du kreditere meg, samt noen andre regler som gjelder
+indikasjon på endringer som er gjort, og du kan ikke legge til noen ytterligere
+begrensninger som lovmessig hindrer noen fra å gjøre det lisensen tillater.
