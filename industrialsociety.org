@@ -1,31 +1,18 @@
 #+title: Det industrielle samfunn og dets fremtid
 #+author: Theodore Kaczynski, Simon Nikolai Varøy
-# \documentclass[oneside]{book}
-# \usepackage[T1]{fontenc}
-# \usepackage[top=2.5cm,left=3.5cm,right=2.5cm,bottom=2cm]{geometry}
-# \usepackage[norsk]{babel}
-# \usepackage{titlesec}
-# \usepackage{times}
-# \usepackage[
-#     type={CC},
-#     modifier={by-sa},
-#     version={4.0},
-# ]{doclicense}
-
-# \titleformat{\chapter}[display]
-# {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
-
-# % this alters "before" spacing (the second length argument) to 0
-# \titlespacing*{\chapter}{0pt}{0pt}{40pt}
-
-# \title{Det industrielle samfunn og dets fremtid}
-# \author{Theodore Kaczynski\\Oversatt av Simon Nikolai Varøy}
-# \date{19.september 1995}
-
-# \begin{document}
-# \maketitle
-# \doclicenseThis\par
-# \tableofcontents
+#+LATEX_CLASS: unabook
+#+language: nb
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[norsk]{babel}
+#+LATEX_HEADER: \usepackage[top=2.5cm,left=2.5cm,right=2.5cm,bottom=2cm]{geometry}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \usepackage[type={CC},modifier={by-sa},version={4.0},]{doclicense}
+#+LATEX_HEADER: \titleformat{\chapter}[display]
+#+LATEX_HEADER: {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+#+LATEX_HEADER: \titlespacing*{\chapter}{0pt}{0pt}{40pt}
+#+LATEX: \newpage
+#+LATEX: \doclicenseThis
 
 * Introduksjon
 ** 1.
@@ -61,7 +48,7 @@ revolusjonen kan ta i bruk voldsmetoder eller ikke og den kan være spontan
 eller gå gradvis over noen tiår. Vi kan ikke forutse noe av dette, men vi
 legger frem på en veldig generell måte hvilke metoder de som hater det
 industrielle systemet bør ta i bruk for å legge til rette for en revolusjon mot
-denne typen samfunnsstruktur. Dette vil ikke være en \emph{politisk} revolusjon.
+denne typen samfunnsstruktur. Dette vil ikke være en /politisk/ revolusjon.
 Dens mål vil ikke være å styrte myndigheter, men heller det økonomiske og
 politiske grunnlaget for dagens samfunn.
 
@@ -101,7 +88,7 @@ klar enn det vi skulle ønske, men det virker ikke som at det er noen måte å
 fikse dette. Alt vi prøver å gjøre her er å indikere på en grov og omtrentlig
 måte de to psykologiske tendensene som vi mener er den største drivkraften bak
 moderne venstrevridd ideologi. Vi hevder på ingen måte at vi forteller
-\emph{hele} sannheten om venstrevridd psykologi. Vår diskusjon er også bare ment
+/hele/ sannheten om venstrevridd psykologi. Vår diskusjon er også bare ment
 å gjelde for moderne venstrevridd ideologi. Spørsmålet om i hvor stor grad
 diskusjonen vår gjelder for venstrevridde på 1800- og tidlig 1900-tall forblir
 åpent.
@@ -113,7 +100,7 @@ underlegenhet er karakteristisk for moderne venstrevridd ideologi helhetlig,
 mens oversosialisering er karakteristisk for bare en viss del av ideologien;
 men denne delen er svært innflytelsesrik.
 
-* Følelser av underlegenhet}
+* Følelser av underlegenhet
 
 ** 10.
 Med "følelser av underlegenhet" tenker vi ikke bare på disse følelsene i en
@@ -141,7 +128,7 @@ for å ikke si noe om primitive kulturer som kan tolkes som negativt. De ønsker
 å erstatte ordet "primitiv" med "analfabet". De virker nesten paranoide når
 det kommer til ting som kanskje kan hentyde at en hvilken som helst primitiv
 kultur er underlegen sammenlignet med vår. (Vi mener ikke å insinuere at
-primitive kulturer \emph{er} underlegne. Vi påpeker bare hypersensitiviteten til
+primitive kulturer /er/ underlegne. Vi påpeker bare hypersensitiviteten til
 venstrelente antropologer.)
 
 ** 12.
@@ -161,31 +148,31 @@ fremstår svake (kvinner), bekjempet (amerikanske indianere), frastøtende
 gruppene er underlegne. De vil aldri innrømme til seg selv at de har disse
 følelsene, men det er nettopp fordi de ser på disse gruppene som underlegne at
 de identifiserer seg med problemene deres. (Vi mener ikke å si at kvinner,
-indianere osv.\ \emph{er} underlegne; vi poengterer bare noe om venstrevridd
+indianere osv. /er/ underlegne; vi poengterer bare noe om venstrevridd
 psykologi.)
 
 ** 14.
 Feminister er desperate etter å bevise at kvinner er like sterke og kapable som
-menn. Det er innlysende at de frykter muligheten for at kvinner \emph{ikke} er
+menn. Det er innlysende at de frykter muligheten for at kvinner /ikke/ er
 like sterke og kapable som menn.
 
 ** 15.
 Venstrevridde har en tendens til å hate alt som fremstår som sterkt, godt og
 suksessfullt. De hater Amerika, vestlig sivilisasjon, hvite menn og
 rasjonalitet. Grunnene venstrevridde gir for å hate vesten osv., samsvarer
-tydelig ikke med deres egentlige motiver. De \emph{sier} at de hater vesten
+tydelig ikke med deres egentlige motiver. De /sier/ at de hater vesten
 fordi den er krigersk, imperialistisk, kjønnsdiskriminerende, etnosentrisk
 osv., men når de samme fenomenene skjer i sosialistiske land eller i primitive
 kulturer, finner den venstrevridde unnskyldninger for dem. I beste fall vil
-vedkommende \emph{motvillig} si at de eksisterer, mens han i vestens tilfeller
-vil \emph{entusiastisk} påpeke (og ofte overdrive) disse fenomenene. Derfor er
+vedkommende /motvillig/ si at de eksisterer, mens han i vestens tilfeller
+vil /entusiastisk/ påpeke (og ofte overdrive) disse fenomenene. Derfor er
 det klart at disse feilene ikke er den egentlige grunnen til at den
 venstrevridde hater Amerika og vesten. Han hater Amerika og vesten på grunn av
 deres styrke og suksess.
 
 ** 16.
 Ord som "selvsikkerhet", "selvstendighet", "initiativ",
-"foretaksomhet", "optimisme" osv.\ spiller en liten rolle i liberal og
+"foretaksomhet", "optimisme" osv. spiller en liten rolle i liberal og
 venstrevridd språkbruk. Den venstrevridde er anti-individualistisk og
 kollektivistisk. Han ønsker at samfunnet skal løse alles problemer,
 tilfredsstille alles behov og ta vare på alle. Han er ikke typen som har en
@@ -232,8 +219,7 @@ selvhevdende eller et kynisk konkurransemenneske. Denne typen person har ikke
 helt mistet troen på seg selv. Han har mangler når det kommer til hans følelse
 av makt og verdighet, men han kan likevel se seg selv som en med kapasitet til
 å være sterk og hans innsats for å gjøre seg selv sterk forårsaker hans
-uønskelige oppførsel.\footnote{Vi hevder ikke at alle, eller engang de fleste,
-mobbere lider av følelser av underlegenhet.} Men den venstrevridde har gått for
+uønskelige oppførsel.[fn:1] Men den venstrevridde har gått for
 langt for dette. Hans følelser av underlegenhet sitter så dypt at han ikke kan
 se på seg selv som individuelt sterk og verdifull. Derfor er den venstrevridde
 kollektivistisk. Han kan bare føle seg sterk som en del av stor organisasjon
@@ -269,7 +255,7 @@ majoriteten har en tendens til å forsterke rasehat.
 
 ** 22.
 Om samfunnet vårt ikke hadde noen sosiale problemer i det hele tatt, måtte de
-venstrevridde \emph{diktet opp} problemer for å gi seg selv en unnskyldning for
+venstrevridde /diktet opp/ problemer for å gi seg selv en unnskyldning for
 å lage bråk.
 
 ** 23.
@@ -296,11 +282,7 @@ på å tenke, føle og handle moralsk, pålegger dem en stor byrde. For å unng�
 skyldfølelse må de hele tiden bedra seg selv når det gjelder sine egne motiver,
 og de må finne moralske forklaringer for følelser og handlinger som i
 realiteten ikke har et moralsk opphav. Vi bruker begrepet "oversosialisert"
-for a beskrive slike mennesker.\footnote{Under viktoriatiden led mange
-mennesker av psykologiske problemer som kom som et resultat av, eller forsøk på
-undertrykkelse av seksuelle følelser. Freud skal visstnok ha basert sine
-teorier på denne typen mennesker. I dag har sosialiseringens fokus gått fra sex
-til aggresjon.}
+for a beskrive slike mennesker.[fn:2]
 
 ** 26.
 Oversosialisering kan føre til lav selvtillit, en følelse av maktesløshet,
@@ -308,7 +290,7 @@ defaitisme, skyldfølelse osv. En av de viktigste måtene samfunnet vårt
 sosialiserer barn er ved å få dem til å føle skam når de handler eller snakker
 på en måte som går mot samfunnets forventninger. Om dette overdrives, eller om
 et bestemt barn er spesielt tilbøyelig for slike følelser, ender han opp med å
-skamme \emph{seg}. I tillegg er den oversosialiserte personens tanker og
+skamme /seg/. I tillegg er den oversosialiserte personens tanker og
 oppførsel mer begrenset av samfunnets forventninger enn en som er lett
 sosialisert. Flertallet av mennesker er delaktige i betydelige mengder dårlig
 oppførsel. De lyver, nasker, bryter trafikkregler, unnasluntrer på jobb, hater
@@ -332,45 +314,25 @@ venstresiden er oversosialisert og at deres oversosialisering er av stor
 viktighet når det kommer til å bestemme retningen til moderne venstrevridd
 ideologi. Venstrevridde av den oversosialiserte typen har en tendens til å være
 intellektuelle eller medlemmer av øvre middelklasse. Legg merke til at
-intellektuelle ved universiteter\footnote{Spesialister innenfor ingeniørfag
-eller "seriøs" vitenskap er ikke nødvendigvis inkludert her.} er den mest
+intellektuelle ved universiteter[fn:3] er den mest
 sosialiserte, og også den mest venstrevridde delen av samfunnet.
 
 ** 28.
 Den venstrevridde av den oversosialiserte typen prøver å fjerne seg fra det
 psykologiske båndet og hevde sin automoni ved å gjøre opprør, men vanligvis er
 han ikke sterk nok til å gjøre opprør mot samfunnets mest grunnleggende
-verdier. Generelt sett er målene til dagens venstrevridde \emph{ikke} i konflikt
+verdier. Generelt sett er målene til dagens venstrevridde /ikke/ i konflikt
 med den alment aksepterte moralen. Tvert i mot vil venstresiden ta et akseptert
 moralsk prinsipp, internalisere det, og så kritisere storsamfunnet for å bryte
 det prinsippet. Eksempler er raselikhet, likestilling mellom kjønnene, å hjelpe
 fattige, fred i stedet for krig, ikkevold generelt, frihet for å uttrykke seg
 slik man vil og vennlighet mot dyr. Mer grunnleggende individets plikt til å
-tjene samfunnet, og samsfunnets plikt til å ta seg av individet. Alle disse
+tjene samfunnet, og samfunnets plikt til å ta seg av individet. Alle disse
 verdiene har vært dypt rotfestet i vårt samfunn (eller i det minste i middel og
-øvre klasser\footnote{Det er mange individer i middel og øvre klasser som
-motsetter seg noen av disse verdiene, men vanligvis er deres motstand mer eller
-mindre skjult. Slik motstand kommer frem i massemediene i en veldig begrenset
-grad. Hoveddelen av propaganda i vårt samfunn er til fordel for fastsatte
-normer. Hovedgrunnen til at disse verdiene har blitt så å si de offisielle
-verdiene i vårt samfunn, er fordi de er nyttige for det industrielle samfunn.
-Vold er frarådet fordi det forstyrrer systemets funksjon. Rasisme er frarådet
-fordi etniske konflikter også forstyrrer systemet, og diskriminering kaster
-bort talentene til minoriteter som kunne vært nyttig for systemet. Fattigdom må
-"kureres" fordi underklassen forårsaker problemer for systemet og kontakt med
-underklassen senker moralen til de andre klassene. Kvinner blir oppfordret til
-å ha karrierer fordi deres talenter er nyttige for systemet, og viktigere fordi
-ved å ha vanlige jobber blir de bedre integrert inn i systemet og knyttes
-direkte til systemet fremfor familiene deres. Dette hjelper med å svekke
-samholdet i familien. (Systemets ledere sier at de ønsker å styrke familien,
-men det de egentlig mener er at de ønsker at familien skal fungere som et
-effektivt verktøy for å sosialisere barn etter systemets behov. Vi argumenterer
-i avsnittene 51 og 52 for at systemet ikke har råd til å la familien eller
-andre små sosiale grupper bli sterke eller selvstendige.)}) lenge. Disse
-verdiene er eksplisitt eller implisitt uttrykt eller forutsett i mesteparten av
-stoffet som presenteres til oss av mediene og utdanningsinstitusjoner.
-Venstrevridde, spesielt de av den oversosialiserte typen, vil vanligvis ikke
-gjøre opprør mot disse prinsippene, men heller rettferdiggjøre deres
+øvre klasser[fn:4]) lenge. Disse verdiene er eksplisitt eller implisitt uttrykt
+eller forutsett i mesteparten av stoffet som presenteres til oss av mediene
+og utdanningsinstitusjoner. Venstrevridde, spesielt de av den oversosialiserte typen,
+vil vanligvis ikke gjøre opprør mot disse prinsippene, men heller rettferdiggjøre deres
 fiendtlighet overfor samfunnet ved å hevde (med en viss grad av sannhet) at
 samfunnet ikke lever opp til dem.
 
@@ -388,7 +350,7 @@ den øvre middelklasse. De venstrevridde vil svare med å si at det siste de
 kan knapt bestå av mer enn å spise afroamerikansk mat, høre på afroamerikansk
 musikk, gå med afroamerikanske klær og å gå til en afroamerikansk kirke eller
 moské. Med andre ord kan det bare uttrykkes i overfladiske tilfeller. På alle
-\emph{vesentlige} måter vil venstrevridde av den oversosialiserte typen gjøre
+/vesentlige/ måter vil venstrevridde av den oversosialiserte typen gjøre
 slik at den svarte mannen må tilpasse seg idealene til den hvite middelklassen.
 De ønsker at han skal studere tekniske fag, bli en leder eller vitenskapsmann
 og å bruke livet sitt på å klatre karrierestigen for å bevise at svarte
@@ -404,7 +366,7 @@ måtte fornekte dette.
 
 ** 30.
 Vi hevder absolutt ikke at venstrevridde, selv av den oversosialiserte typen,
-\emph{aldri} gjør opprør mot vårt samfunns grunnleggende verdier. Åpenbart gjør
+/aldri/ gjør opprør mot vårt samfunns grunnleggende verdier. Åpenbart gjør
 de dette noen ganger. Noen oversosialiserte venstrevridde har gått så langt som
 å gjøre opprør mot et av samfunnets viktigste prinsipper ved bruke vold. Ifølge
 deres egne ord, er vold for dem en form for "frigjøring". Med andre ord, ved
@@ -430,7 +392,7 @@ de utbredt i vårt samfunn. Og dagens samfunn prøver å sosialisere i en størr
 grad enn noe tidligere samfunn. Vi blir til og med fortalt av eksperter hvordan
 vi skal spise, trene, ha sex, oppdra våre barn osv.
 
-* Maktprosessen}
+* Maktprosessen
 ** 33.
 Mennesker har et behov (mest sannsynlig biologisk) for noe vi kaller
 maktprosessen. Dette er nært beslektet ønsket om makt (som er bredt
@@ -469,7 +431,7 @@ For å unngå seriøse psykologiske problemer, må et menneske derfor ha mål de
 oppnåelsen krever innsats, og han må ha en rimelig grad av suksess i oppnåelsen
 av sine mål.
 
-* Erstatningsaktiviteter}
+* Erstatningsaktiviteter
 ** 38.
 Men ikke alle aristokrater med mye fritid blir lei og demoralisert. Keiser
 Hirohito, for eksempel, henga seg selv til marinebiologi, et felt der han ble
@@ -493,7 +455,7 @@ energi for å nå mål X, spør deg selv dette: om han måtte
 bruke mesteparten av tiden sin på å tilfredsstille sine biologiske behov, 
 og om den innsatsen krevde at han brukte sine fysiske og mentale evner 
 på en variert og interessant måte, ville han følt seg berøvet fordi 
-han ikke nådde mål X?\ Om svaret er nei er personens jag etter å nå
+han ikke nådde mål X? Om svaret er nei er personens jag etter å nå
 mål X en erstatningsaktivitet. Hirohito sine studier innenfor 
 marinebiologi var tydelig et eksempel på en erstatningsaktivitet 
 fordi det er ganske sikkert at om Hirohito måtte bruke tiden sin 
@@ -512,7 +474,7 @@ tilfredsstille sine fysiske behov. Det er nok å gå gjennom et
 arbeidstreningsprogram for å få en eller annen ubetydelig teknisk ferdighet,
 for så å komme tidsnok til jobb og anstrenge seg i en liten grad for å beholde
 jobben. De eneste kravene er en moderat mengde intelligens og viktigst av alt,
-\emph{lydighet}. Om man har disse, vil samfunnet ta vare på deg fra vugge til
+/lydighet/. Om man har disse, vil samfunnet ta vare på deg fra vugge til
 grav. (Ja, det er en underklasse som ikke kan ta de fysiske nødvendighetene for
 gitt, men vi snakker her om det generelle samfunnet.) Derfor er det ikke
 overraskende at det moderne samfunn er fullt av erstatningsaktiviteter. Disse
@@ -522,7 +484,7 @@ penger og materielle goder som går mye lengre enn det som er nødvendig for å 
 mer fysisk tilfredsstillelse og aktivisme som går på problemer som ikke er
 viktig for aktivisten personlig (som er tilfelle når det kommer til hvite
 aktivister som jobber for rettighetene til ikkehvite minoriteter). Disse er
-ikke alltid \emph{rene} erstatningsaktiviteter fordi for mange kan de være
+ikke alltid /rene/ erstatningsaktiviteter fordi for mange kan de være
 motivert delvis av andre behov enn å ha et mål å jobbe mot. Vitenskapelig
 arbeid kan være motivert delvis av et ønske om prestisje, kunstnerisk skapelse
 av et behov for å uttrykke følelser og militant aktivisme av fiendtlighet. Men
@@ -545,37 +507,25 @@ aktivitetene enn de får fra den "kjedelige" jobben med å tilfredsstille sine
 biologiske behov, men det er fordi at i vårt samfunn har innsatsen som kreves
 for å tilfredsstille sine biologiske behov blitt redusert til noe ubetydelig.
 Enda viktigere tilfredsstiller folk i vårt samfunn ikke sine biologiske behov
-\emph{selvstendig}, men heller ved å fungere som deler i en enorm sosial maskin.
+/selvstendig/, men heller ved å fungere som deler i en enorm sosial maskin.
 Derimot har folk generelt mye autonomi når det kommer til å delta i
 erstatningsaktiviteter.
 
-* Autonomi}
+* Autonomi
 ** 42.
 Autonomi som en del av maktprosessen er kanskje ikke nødvendig for hvert
 individ. Men de fleste mennesker trenger en større eller mindre grad av
 autonomi når de jobber mot sine mål. Deres innsats må gjøres på deres eget
 initiativ og må være under deres ledelse og kontroll. Likevel må ikke de fleste
 bruke initiativet, ledelsen og kontrollen som enkeltindivider. Det er vanligvis
-nok å handle som en del av en \emph{liten} gruppe. Derfor, om et halvt dusin med
+nok å handle som en del av en /liten/ gruppe. Derfor, om et halvt dusin med
 mennesker diskuterer et mål mellom seg og går inn for å nå det målet med
 suksess, vil deres behov for maktprosessen være tilfredsstilt. Men om de jobber
 under rigide ordre ovenfra som ikke gir dem noe rom for selvstendige
 avgjørelser og initiativ, vil deres behov for maktprosessen ikke være
 tilfredsstilt. Det samme er sant når avgjørelser tas på en kollektiv basis om
 gruppen som tar den kollektive avgjørelsen er så stor at rollen til hvert
-individ er ubetydelig.\footnote{Det kan kanskje argumenteres for at flertallet
-av mennesker ikke ønsker å ta sine egne valg, men heller la ledere tenke for
-dem. Det er en grad av sannhet i dette. Folk liker å ta sine egne valg i små
-saker, men å ta valg når det kommer til vanskelige og fundamentale spørsmål
-krever å møte psykologiske konflikter, og de fleste hater psykologiske
-konflikter. Ergo har de en tendens til å lene seg på andre når det kommer til å
-ta vanskelige valg. Men dette betyr ikke at de liker når andre tar valg uten at
-de har noen innflytelse på de valgene. Flertallet av mennesker er naturlige
-følgere, ikke ledere, men de liker å ha direkte personlig tilgang til sine
-ledere og de ønsker å ha muligheten til å påvirke lederne og delta i en viss
-grad selv når det kommer til å ta vanskelige valg. De trenger autonomi i minst
-den grad.}
-
+individ er ubetydelig.[fn:5]
 ** 43.
 Det er sant at noen individer virker å ha lite behov for autonomi. Enten er
 ønsket deres om makt svakt, eller så tilfredsstiller de det med å identifisere
@@ -587,29 +537,15 @@ overfor sine ledere).
 
 ** 44.
 Men for de fleste er det gjennom maktprosessen --- å ha et mål, gjøre en
-\emph{selvstendig} innsats, og nå det målet --- at selvtillit, selvsikkerhet og
-en
-følelse av makt oppnås. Når noen ikke har en tilstrekkelig mulighet til å gå
+/selvstendig/ innsats, og nå det målet --- at selvtillit, selvsikkerhet og
+en følelse av makt oppnås. Når noen ikke har en tilstrekkelig mulighet til å gå
 gjennom maktprosessen er konsekvensene (avhengig av individet og måten
 maktprosessen forstyrres) kjedsomhet, demoralisering, lav selvtillit, følelser
 av underlegenhet, defaitisme, depresjon, angst, skyldfølelse, frustrasjon,
 fiendtlighet, vold i hjemmet, umettelig hedonisme, uvanlig seksuell oppførsel,
-søvnplager, spiseforstyrrelser osv.\footnote{Noen av symptomene oppført er
-like de som vises av dyr i bur. For å forklare hvordan disse symptomene kommer
-fra berøvelse når det kommer til maktprosessen: en forståelse av menneskelig
-natur basert på sunn fornuft sier til oss at en mangel på mål som krever
-innsats fører til kjedsomhet og den kjedsomheten vil før eller siden ofte føre
-til depresjon. Å ikke klare å nå mål fører til frustrasjon og lavere
-selvtillit. Frustrasjon fører til sinne, sinne til aggresjon (ofte i form av
-vold i hjemmet). Det har blitt vist at en langvarig frustrasjon ofte fører til
-depresjon og depresjonen forårsaker skyldfølelse, søvnplager,
-spiseforstyrrelser og dårlige følelser om seg selv. De som blir depressive vil
-søker nytelse som en motgift; ergo umettelig hedonisme og en overdreven mengde
-sex med perversitet som en måte å få nye spenninger. Kjedsomhet har også en
-tendens til å forårsake overdrevne søk etter nytelse fordi at uten andre mål
-vil folk ofte bruke nytelse som et mål.}
+søvnplager, spiseforstyrrelser osv.[fn:6]
 
-* Årsaker til samfunnsmessige problemer}
+* Årsaker til samfunnsmessige problemer
 ** 45.
 Hvilken som helst av de tidligere beskrevne symptomene kan forekomme i alle
 samfunn, men i det moderne industrielle samfunn vil de eksistere i en enorm
@@ -619,9 +555,9 @@ tro at den primitive mannen var mindre stresset og frustrert, og mer tilfreds
 med livet enn den moderne mannen er. Det er sant at det ikke bare var gull og
 grønne skoger i primitive samfunn. Mishandling av kvinner var vanlig i den
 australske urbefolkningen og transseksualitet var ganske vanlig blant noen av
-de amerikanske indianerstammene. Men det virker som at på et \emph{generelt
-grunnlag} var de problemene som vi har oppført mye mindre vanlig i primitive
-samfunn enn de er i det moderne samfunn.
+de amerikanske indianerstammene. Men det virker som at på et /generelt grunnlag/
+var de problemene som vi har oppført mye mindre vanlig i primitive samfunn enn de
+er i det moderne samfunn.
 
 ** 46.
 Vi tillegger de sosiale og psykologiske problemene i det moderne samfunn til
@@ -677,7 +613,7 @@ Nedbrytningen av tradisjonelle verdier medfører til en viss grad nedbrytningen
 av båndene som holder tradisjonelle småskala sosiale grupper sammen.
 Oppløsningen av småskala sosiale grupper promoteres også av det faktum at
 moderne forhold ofte krever eller frister individer til å flytte til nye
-steder, som skiller dem fra sine lokalsamfunn. Videre \emph{må} et teknologisk
+steder, som skiller dem fra sine lokalsamfunn. Videre /må/ et teknologisk
 samfunn svekke familiebånd og lokalsamfunn om det skal fungere effektivt. I det
 moderne samfunn må et individ først være lojal overfor systemet og bare
 sekundært til lokalsamfunnet fordi om de interne lojalitetene i småskala
@@ -694,24 +630,7 @@ Samfunn som ellers hadde vært industrielle og som har gjort en dårlig jobb nå
 det kommer til å få folk til å sette lojalitet overfor systemet over personlig
 lojalitet, er vanligvis veldig ineffektive. (Se på Latin-Amerika.) Derfor kan
 et avansert industrielt samfunn bare tolerere de småskala samfunnene som er
-kastrerte, tamme og gjort om til systemets verktøy.\footnote{Et delvis unntak
-kan gjøres for et par passive og innadvendte grupper slik som amish-folket, som
-påvirker storsamfunnet i en svært liten grad. Bortsett fra disse, eksisterer
-noen få genuine småskala samfunn i dagens USA.\ Ungdomsgjenger og "kulter" er
-to eksempler. Alle ser på dem som farlige, og det er de, fordi at medlemmene i
-disse gruppene er hovedsakelig lojale overfor hverandre og ikke systemet, så
-systemet kan ikke kontrollere dem. Sigøynerne er et annet eksempel. Sigøynerne
-kommer seg ofte unna med stjeling og svindel fordi deres lojalitet er slik at
-de alltid kan få andre sigøynere til å avlegge vitnesbyrd som "beviser" deres
-uskyld. Systemet ville åpenbart fått mange problemer om for mange mennesker
-tilhørte slike grupper. Noen av tenkerne tidlig på 1900-tallet i Kina som var
-bekymret for moderniseringen i Kina så nødvendigheten av å bryte ned småskala
-sosiale grupper slik som familien: " (Ifølge Sun Yat-sen) trengte kineserne en
-ny bølge av patriotisme, som ville overføre lojalitet fra familien til
-systemet... (Ifølge Li Huang) måtte tradisjonelle koblinger, særlig familien,
-forlates om nasjonalisme skulle utvikle seg i Kina. " (Chester C. Tan,
-"Chinese Political Thought in the Twentieth Century, " side 125 og 297.)}
-# MAY NEED SOME ADDITIONAL WORK ^^^
+kastrerte, tamme og gjort om til systemets verktøy.[fn:7]
 
 ** 53.
 Trengsel, raske endringer og nedbrytningen av samfunn har bredt blitt sett på
@@ -742,9 +661,7 @@ en vanlig jobb og levde i et strukturert samfunn med effektiv håndhevelse av
 loven. Dette var en dypere endring enn det som typisk er vanlig i livet til et
 moderne individ, men likevel virker det ikke som at det førte til psykologiske
 problemer. Faktisk hadde Amerika på 1800-tallet en optimistisk og selvsikker
-tone. Veldig ulikt dagens samfunn.\footnote{Ja, vi er klar over at Amerika på
-1800-tallet hadde sine problemer, og virkelig seriøse problemer, men for å være
-kortfattet må vi forklare oss på en forenklet måte.}
+tone. Veldig ulikt dagens samfunn.[fn:8]
 
 ** 57.
 Vi argumenterer for at den moderne mannen har følelsen av (i stor grad
@@ -773,7 +690,7 @@ blitt spesielt akutt. Venstrevridd ideologi, i det minste i sin nylige form
 (midten til slutten av 1900-tallet), er til dels et symptom på berøvelse med
 tanke på maktprosessen.
 
-* Forstyrrelse av maktprosessen i det moderne samfunn}
+* Forstyrrelse av maktprosessen i det moderne samfunn
 ** 59.
 Vi deler menneskelige behov inn i tre grupper: (1) de behovene som kan
 tilfredsstilles med minimal innsats; (2) de som kan tilfredsstilles men bare
@@ -791,12 +708,11 @@ til å bestå i økende grad av kunstig skapte behov.
 ** 61.
 I primitive samfunn, havner fysiske behov som regel i den andre gruppen: De kan
 oppnås, men bare om det legges ned seriøs innsats. Men moderne samfunn har en
-tendens til å garantere fysiske behov til alle\footnote{Vi legger
-"underklassen" til side. Vi snakker om den generelle befolkningen.} i bytte
+tendens til å garantere fysiske behov til alle[fn:9] i bytte
 mot bare en minimal innsats. Ergo dyttes fysiske behov inn i den andre gruppen.
 (Det er kanskje uenigheter om hvorvidt innsatsen som kreves for å ha en jobb er
 "minimal", men som regel er kravene som stilles til jobber på lavere til
-middels nivå bare at du er LYDIG.\ Du sitter eller står der du blir fortalt at
+middels nivå bare at du er LYDIG. Du sitter eller står der du blir fortalt at
 du skal sitte eller stå og du gjør ting på den måten du blir fortalt at det
 skal gjøres. Det er sjeldent at du må anstrenge deg skikkelig, og uansett har
 du omtrent ikke autonomi i jobben din slik at behovet for maktprosessen ikke
@@ -804,10 +720,7 @@ blir tilfredsstilt.)
 
 ** 62.
 Sosiale behov, slik som sex, kjærlighet og status, vil ofte bli i den andre
-gruppen i det moderne samfunn, avhengig av individets situasjon.\footnote{Noen
-samfunnsvitere, lærere, profesjonelle innen "mental helse" og lignende prøver
-sitt beste på å dytte de sosiale motivene inn i den første gruppen ved å prøve å
-se til at alle har et tilfredsstillende sosialt liv.} Men unntatt
+gruppen i det moderne samfunn, avhengig av individets situasjon.[fn:10] Men unntatt
 folk som har et særlig stort driv for å oppnå status, er innsatsen som kreves
 for å realisere de sosiale motivene utilstrekkelig for å tilfredsstille behovet
 for maktprosessen i stor nok grad.
@@ -820,26 +733,7 @@ trenger ting som deres besteforeldre aldri ønsket eller drømte om. Det krever
 seriøs innsats for å tjene nok penger til å tilfredsstille disse kunstige
 behovene, ergo faller de inn i den andre gruppen (Men se på avsnittene 80--82.).
 Den moderne mannen må i stor grad tilfredsstille sitt behov for maktprosessen
-gjennom jag etter kunstige behov\footnote{Er motivasjonen for endeløs materiell
-anskaffelse virkelig en kunstig skapelse av annonserings- og
-markedsføringsindustrien? Det er utvilsomt at det ikke noe underliggende
-menneskelig driv for materiell anskaffelse. Det har vært mange kulturer der folk
-har ønsket lite materiell velstand utover det som var nødvendig for å
-tilfredsstille deres grunnleggende fysiske behov (Australske aboriginere, tradisjonell meksikansk
-bondekultur, noen afrikanske kulturer). På den andre siden har det også vært
-mange før-industrielle kulturer der materiell anskaffelse har spilt en viktig
-rolle. Så vi kan ikke hevde at dagens anskaffelsorienterte kultur er utelukkende
-en skapelse av annonserings- og markedsføringsindustrien. Men det er klart at
-annonserings- og markedsføringsindustrien har spilt en viktig rolle i å skape
-den kulturen. De store selskapene som bruker millioner på reklamer ville ikke
-brukt den summen med penger med mindre de hadde gode beviser på at de ville få
-det tilbake i form av økt salg. Et medlem av frihetsklubben møtte en salgssjef
-for noen år siden som var ærlig nok til å fortelle han, "Vår jobb er å få folk
-til å kjøpe ting de ikke vil ha og ikke trenger". Han forklarte så hvordan en
-utrent nybegynner kunne gi folk fakta om produktet og ikke selge noe i det hele
-tatt, men en trent og profesjonell selger ville selge mange produkter til de
-samme kundene. Dette viser at folk blir manipulert til å kjøpe ting de egentlig
-ikke vil ha.}, og gjennom erstatningsaktiviteter.
+gjennom jag etter kunstige behov[fn:11], og gjennom erstatningsaktiviteter.
 
 ** 64.
 Det virker som at for mange folk, kanskje flertallet, at disse kunstige formene
@@ -850,30 +744,18 @@ følelsen av meningsløshet som påvirker mange mennesker i det moderne samfunn.
 "tomhet"). Vi antyder at den såkalte "identitetskrisen" egentlig er søken
 etter mening, ofte for å forplikte seg til en passelig erstatningsaktivitet. Det
 kan godt være at eksistensialismen i stor grad er et svar på meningsløsheten i
-det moderne liv.\footnote{Meningsløshetens problem virker å ha blitt mindre
-seriøst i løpet av de siste 15 årene eller noe slikt fordi at folk føler mindre
-sikkerhet både økonomisk og i forhold til fysiske behov, sammenlignet med
-tidligere, og behovet for sikkerhet gir dem et mål. Men meningsløshet har blitt
-erstattet med frustrasjon over vanskeligheten med å skaffe sikkerhet. Vi legger
-vekt på meningsløshetens problem fordi de liberale og venstrevridde ønsker å
-løse våre samfunnsmessige problemer med å la samfunnet garantere alles
-sikkerhet, men om det kan gjøres vil det bare bringe tilbake meningsløshetens
-problem. Det virkelige problemet er ikke om samfunnet forsørger på en god eller
-dårlig måte i forhold til sikkerhet, men heller at folk er avhengig av systemet
-i stedet for å ha det i sine egne hender. Dette, forresten, er en del av grunnen
-til at folk blir oppbrakt når det kommer til retten til å bære våpen; besittelse
-av våpen legger det aspektet av sikkerhet i deres egne hender.} Søken etter
-"tilfredsstillelse" er veldig utbredt i det moderne samfunn. Men vi tenker at for de
-fleste som utfører en aktivitet med mål om tilfredsstillelse (som er en
-erstatningsaktivitet), gir dette ikke tilstrekkelig tilfredsstillelse. Med andre
-ord oppfyller det ikke behovet for maktprosessen. (Se avsnitt 41.) Det
-behovet kan bare bli fullstendig oppfylt ved å gjøre aktiviteter som har
-et eksternt mål, slik som fysiske behov, sex, kjærlighet, status, hevn osv.
+det moderne liv.[fn:12] Søken etter "tilfredsstillelse" er veldig utbredt i det
+moderne samfunn. Men vi tenker at for de fleste som utfører en aktivitet med mål
+om tilfredsstillelse (som er en erstatningsaktivitet), gir dette ikke
+tilstrekkelig tilfredsstillelse. Med andre ord oppfyller det ikke behovet for
+maktprosessen. (Se avsnitt 41.) Det behovet kan bare bli fullstendig oppfylt ved
+å gjøre aktiviteter som har et eksternt mål, slik som fysiske behov, sex,
+kjærlighet, status, hevn osv.
 
 ** 65.
 Der mål blir jaget med å tjene penger, klatre karrierestigen eller fungere som
 en del av systemet på en annen måte, vil de fleste folk ikke være i en posisjon
-der de kan følge sine mål *selvstendig*. De fleste arbeidere er ansatt av
+der de kan følge sine mål /selvstendig/. De fleste arbeidere er ansatt av
 noen og, som vi poengterte i avsnitt 61, må bruke sine dager på å gjøre det de
 blir fortalt og på den måten de blir fortalt. Selv de fleste folk som er
 selvstendig næringsdrivende har begrenset med autonomi. Det er en gjentakende
@@ -884,7 +766,7 @@ uunngåelige deler av vårt ekstremt komplekse samfunn. En stor del av små
 bedrifter i dag er en del av et franchise system. Det ble rapportert i Wall
 Street Journal for noen år siden at mange av franchiseselskapene krever at
 søkere som ønsker å starte en franchise skal ta en personlighetstest som er
-skapt slik at den skal *ekskludere* de som er kreative og tar initiativ.
+skapt slik at den skal /ekskludere/ de som er kreative og tar initiativ.
 Dette er fordi at disse personene ikke er lydige nok til å gå i takt med
 franchise systemet. Dette ekskluderer mange av de folkene som mest trenger
 autonomi fra å drive små bedrifter.
@@ -927,4 +809,114 @@ autonomi fra å drive små bedrifter.
 
 * Sluttord
 
-\end{document}
+# Fotnoter
+[fn:1] Vi hevder ikke at alle, eller engang de fleste, mobbere lider av følelser
+av underlegenhet.
+[fn:2] Under viktoriatiden led mange mennesker av psykologiske problemer som kom
+som et resultat av, eller forsøk på undertrykkelse av seksuelle følelser. Freud
+skal visstnok ha basert sine teorier på denne typen mennesker. I dag har
+sosialiseringens fokus gått fra sex til aggresjon.
+[fn:3] Spesialister innenfor ingeniørfag eller "seriøs" vitenskap er ikke
+nødvendigvis inkludert her.
+[fn:4] Det er mange individer i middel og øvre klasser som motsetter seg noen av
+disse verdiene, men vanligvis er deres motstand mer eller mindre skjult. Slik
+motstand kommer frem i massemediene i en veldig begrenset grad. Hoveddelen av
+propaganda i vårt samfunn er til fordel for fastsatte normer. Hovedgrunnen til
+at disse verdiene har blitt så å si de offisielle verdiene i vårt samfunn, er
+fordi de er nyttige for det industrielle samfunn. Vold er frarådet fordi det
+forstyrrer systemets funksjon. Rasisme er frarådet fordi etniske konflikter også
+forstyrrer systemet, og diskriminering kaster bort talentene til minoriteter som
+kunne vært nyttig for systemet. Fattigdom må "kureres" fordi underklassen
+forårsaker problemer for systemet og kontakt med underklassen senker moralen til
+de andre klassene. Kvinner blir oppfordret til å ha karrierer fordi deres
+talenter er nyttige for systemet, og viktigere fordi ved å ha vanlige jobber
+blir de bedre integrert inn i systemet og knyttes direkte til systemet fremfor
+familiene deres. Dette hjelper med å svekke samholdet i familien. (Systemets
+ledere sier at de ønsker å styrke familien, men det de egentlig mener er at de
+ønsker at familien skal fungere som et effektivt verktøy for å sosialisere barn
+etter systemets behov. Vi argumenterer i avsnittene 51 og 52 for at systemet
+ikke har råd til å la familien eller andre små sosiale grupper bli sterke eller
+selvstendige.)
+[fn:5] Det kan kanskje argumenteres for at flertallet av mennesker ikke ønsker å
+ta sine egne valg, men heller la ledere tenke for dem. Det er en grad av sannhet
+i dette. Folk liker å ta sine egne valg i små saker, men å ta valg når det
+kommer til vanskelige og fundamentale spørsmål krever å møte psykologiske
+konflikter, og de fleste hater psykologiske konflikter. Ergo har de en tendens
+til å lene seg på andre når det kommer til å ta vanskelige valg. Men dette betyr
+ikke at de liker når andre tar valg uten at de har noen innflytelse på de
+valgene. Flertallet av mennesker er naturlige følgere, ikke ledere, men de liker
+å ha direkte personlig tilgang til sine ledere og de ønsker å ha muligheten til
+å påvirke lederne og delta i en viss grad selv når det kommer til å ta
+vanskelige valg. De trenger autonomi i minst den grad.
+[fn:6] Noen av symptomene oppført er
+like de som vises av dyr i bur. For å forklare hvordan disse symptomene kommer
+fra berøvelse når det kommer til maktprosessen: en forståelse av menneskelig
+natur basert på sunn fornuft sier til oss at en mangel på mål som krever
+innsats fører til kjedsomhet og den kjedsomheten vil før eller siden ofte føre
+til depresjon. Å ikke klare å nå mål fører til frustrasjon og lavere
+selvtillit. Frustrasjon fører til sinne, sinne til aggresjon (ofte i form av
+vold i hjemmet). Det har blitt vist at en langvarig frustrasjon ofte fører til
+depresjon og depresjonen forårsaker skyldfølelse, søvnplager,
+spiseforstyrrelser og dårlige følelser om seg selv. De som blir depressive vil
+søker nytelse som en motgift; ergo umettelig hedonisme og en overdreven mengde
+sex med perversitet som en måte å få nye spenninger. Kjedsomhet har også en
+tendens til å forårsake overdrevne søk etter nytelse fordi at uten andre mål
+vil folk ofte bruke nytelse som et mål.
+[fn:7] Et delvis unntak kan gjøres for et par passive og innadvendte grupper
+slik som amish-folket, som påvirker storsamfunnet i en svært liten grad.
+Bortsett fra disse, eksisterer noen få genuine småskala samfunn i dagens USA.
+Ungdomsgjenger og "kulter" er to eksempler. Alle ser på dem som farlige, og det
+er de, fordi at medlemmene i disse gruppene er hovedsakelig lojale overfor
+hverandre og ikke systemet, så systemet kan ikke kontrollere dem. Sigøynerne er
+et annet eksempel. Sigøynerne kommer seg ofte unna med stjeling og svindel fordi
+deres lojalitet er slik at de alltid kan få andre sigøynere til å avlegge
+vitnesbyrd som "beviser" deres uskyld. Systemet ville åpenbart fått mange
+problemer om for mange mennesker tilhørte slike grupper. Noen av tenkerne tidlig
+på 1900-tallet i Kina som var bekymret for moderniseringen i Kina så
+nødvendigheten av å bryte ned småskala sosiale grupper slik som familien: "
+(Ifølge Sun Yat-sen) trengte kineserne en ny bølge av patriotisme, som ville
+overføre lojalitet fra familien til systemet... (Ifølge Li Huang) måtte
+tradisjonelle koblinger, særlig familien, forlates om nasjonalisme skulle
+utvikle seg i Kina. " (Chester C. Tan, "Chinese Political Thought in the
+Twentieth Century, " side 125 og 297.)
+[fn:8] Ja, vi er klar over at Amerika på 1800-tallet hadde sine problemer, og
+virkelig seriøse problemer, men for å være kortfattet må vi forklare oss på en
+forenklet måte.
+[fn:9] Vi legger "underklassen" til side. Vi snakker om den generelle
+befolkningen.
+[fn:10] Noen samfunnsvitere, lærere, profesjonelle innen "mental helse" og
+lignende prøver sitt beste på å dytte de sosiale motivene inn i den første
+gruppen ved å prøve å se til at alle har et tilfredsstillende sosialt liv.
+[fn:11] Er motivasjonen for endeløs materiell
+anskaffelse virkelig en kunstig skapelse av annonserings- og
+markedsføringsindustrien? Det er utvilsomt at det ikke noe underliggende
+menneskelig driv for materiell anskaffelse. Det har vært mange kulturer der folk
+har ønsket lite materiell velstand utover det som var nødvendig for å
+tilfredsstille deres grunnleggende fysiske behov (Australske aboriginere, tradisjonell meksikansk
+bondekultur, noen afrikanske kulturer). På den andre siden har det også vært
+mange før-industrielle kulturer der materiell anskaffelse har spilt en viktig
+rolle. Så vi kan ikke hevde at dagens anskaffelsorienterte kultur er utelukkende
+en skapelse av annonserings- og markedsføringsindustrien. Men det er klart at
+annonserings- og markedsføringsindustrien har spilt en viktig rolle i å skape
+den kulturen. De store selskapene som bruker millioner på reklamer ville ikke
+brukt den summen med penger med mindre de hadde gode beviser på at de ville få
+det tilbake i form av økt salg. Et medlem av frihetsklubben møtte en salgssjef
+for noen år siden som var ærlig nok til å fortelle han, "Vår jobb er å få folk
+til å kjøpe ting de ikke vil ha og ikke trenger". Han forklarte så hvordan en
+utrent nybegynner kunne gi folk fakta om produktet og ikke selge noe i det hele
+tatt, men en trent og profesjonell selger ville selge mange produkter til de
+samme kundene. Dette viser at folk blir manipulert til å kjøpe ting de egentlig
+ikke vil ha.
+[fn:12] Meningsløshetens problem virker å ha blitt mindre
+seriøst i løpet av de siste 15 årene eller noe slikt fordi at folk føler mindre
+sikkerhet både økonomisk og i forhold til fysiske behov, sammenlignet med
+tidligere, og behovet for sikkerhet gir dem et mål. Men meningsløshet har blitt
+erstattet med frustrasjon over vanskeligheten med å skaffe sikkerhet. Vi legger
+vekt på meningsløshetens problem fordi de liberale og venstrevridde ønsker å
+løse våre samfunnsmessige problemer med å la samfunnet garantere alles
+sikkerhet, men om det kan gjøres vil det bare bringe tilbake meningsløshetens
+problem. Det virkelige problemet er ikke om samfunnet forsørger på en god eller
+dårlig måte i forhold til sikkerhet, men heller at folk er avhengig av systemet
+i stedet for å ha det i sine egne hender. Dette, forresten, er en del av grunnen
+til at folk blir oppbrakt når det kommer til retten til å bære våpen; besittelse
+av våpen legger det aspektet av sikkerhet i deres egne hender.
